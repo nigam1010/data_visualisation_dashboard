@@ -19,13 +19,13 @@ A modern, responsive, and interactive data analytics dashboard built using **Rea
 ## 🖼️ Screenshots
 
 ### 🔐 Login Page
-![Login Page](./frontend/LoginPage_ScreenShot.png)
+![Login Page](LoginPage_ScreenShot.png)
 
 ### 📊 Dashboard Overview
-![Dashboard](./frontend/Dashboard_ScreenShot.png)
+![Dashboard](Dashboard_ScreenShot.png)
 
 ### 🧾 Supabase Database Structure
-![Database](./frontend/Database_ScreenShot.png)
+![Database](Database_ScreenShot.png)
 
 ---
 
@@ -59,7 +59,8 @@ python upload_to_supabase.py
 
 ---
 📧 Contact
-Made with ❤️ by ![github.com/nigam1010]
+Made with ❤️ by [KARINIGAM S A](https://github.com/nigam1010)
+
 
 ### ✅ To Use:
 
